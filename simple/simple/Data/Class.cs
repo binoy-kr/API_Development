@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using simple.Entityes;
 
 namespace simple.Data
 {
@@ -8,5 +9,7 @@ namespace simple.Data
         {
             
         }
+        public DbSet<user> AccountUser { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OOPS\\simple\\simple\\simple.csproj": {}
+    "D:\\api Developmet\\simple\\simple\\simple.csproj": {}
   },
   "projects": {
-    "D:\\OOPS\\simple\\simple\\simple.csproj": {
+    "D:\\api Developmet\\simple\\simple\\simple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOPS\\simple\\simple\\simple.csproj",
+        "projectUniqueName": "D:\\api Developmet\\simple\\simple\\simple.csproj",
         "projectName": "simple",
-        "projectPath": "D:\\OOPS\\simple\\simple\\simple.csproj",
+        "projectPath": "D:\\api Developmet\\simple\\simple\\simple.csproj",
         "packagesPath": "C:\\Users\\debna\\.nuget\\packages\\",
-        "outputPath": "D:\\OOPS\\simple\\simple\\obj\\",
+        "outputPath": "D:\\api Developmet\\simple\\simple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
